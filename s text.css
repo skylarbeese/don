@@ -1,0 +1,12 @@
+.btn {
+	color: red;
+	padding: 10px;
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
+.my-div {
+	align-items: center;
+	justify-content: center;
+	display: flex;
+}
